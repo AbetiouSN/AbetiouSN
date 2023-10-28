@@ -1,6 +1,6 @@
 #Hi 👋, I'm Soufian Bouktaib
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World!;I'm+a+Software+Developer;Welcome+to+my+GitHub+Profile!&center=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World!;I'm+a;Software+engineering+student;Welcome+to+my+GitHub+Profile!&center=true)
 
 🌱 I'm a passionate software engineering student from Morocco.
 
