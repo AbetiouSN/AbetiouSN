@@ -1,4 +1,4 @@
-#Hi 👋, I'm Soufian Bouktaib
+# Hi 👋, I'm Soufian Bouktaib
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World!;I'm+a;Software+engineering+student;Welcome+to+my+GitHub+Profile!&center=true)
 
