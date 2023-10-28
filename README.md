@@ -11,8 +11,8 @@
 📫 How to reach me: sofianeabetiou@gmail.com
 
 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/sofianeabetiou/)
-- [GitHub](https://github.com/AbetiouSN)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofianeabetiou/)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AbetiouSN)
 
 Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
