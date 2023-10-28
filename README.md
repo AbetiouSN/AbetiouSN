@@ -15,7 +15,7 @@ Connect with me:
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AbetiouSN)
 
 Languages and Tools:
-![C++](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-nwvsu&psig=AOvVaw3eU6K3dlpDs1cw1uOX5AGB&ust=1698544285706000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCMjesNjQl4IDFQAAAAAdAAAAABAE)
+
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c)
