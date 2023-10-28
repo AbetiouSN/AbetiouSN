@@ -15,15 +15,17 @@ Connect with me:
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AbetiouSN)
 
 Languages and Tools:
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" width="100">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B" width="100">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c" width="100">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" width="100">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" width="100">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white" width="100">
-<img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat" width="100">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" width="100">
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" width="100">
+![C++](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-nwvsu&psig=AOvVaw3eU6K3dlpDs1cw1uOX5AGB&ust=1698544285706000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCMjesNjQl4IDFQAAAAAdAAAAABAE)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
 
 
 ![AbetiouSN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbetiouSN&show_icons=true)
