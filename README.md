@@ -10,7 +10,7 @@
 
 💬 Ask me about Java, Python, web development...
 
-📫 How to reach me: [Your Email Address]
+📫 How to reach me: sofianeabetiou@gmail.com
 
 Connect with me:
 - [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/sofianeabetiou/))
