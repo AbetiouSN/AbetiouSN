@@ -28,6 +28,11 @@ Languages and Tools:
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" width="100">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="100">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" width="100">
+<img src="https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white" width="100">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" width="100">
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" width="100">
+
 
 
 
