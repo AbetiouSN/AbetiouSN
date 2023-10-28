@@ -1,16 +1,33 @@
-### Hi there 👋
+# Sofiane ABETIOU
 
-<!--
-**AbetiouSN/AbetiouSN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello, I'm Sofiane ABETIOU.
 
-Here are some ideas to get you started:
+🌱 I'm a passionate software engineering student from Moroco.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently learning and working on exciting software projects.
+
+👯 Looking to collaborate on open-source projects and innovative ideas.
+
+💬 Ask me about Java, Python, web development...
+
+📫 How to reach me: [Your Email Address]
+
+Connect with me:
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/sofianeabetiou/))
+- [GitHub]([https://github.com/your-github-profile](https://github.com/AbetiouSN))
+
+Languages and Tools:
+- Java
+- C++
+- C
+- PHP
+- Laravel
+- Git
+- PL/SQl
+- SQL
+- Oracle
+- PostgreSQL
+  
+
+![AbetiouSN](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+
