@@ -1,20 +1,18 @@
-# Hi 👋, I'm Sofiane ABETIOU
+# Hi, I'm Sofiane ABETIOU 👋
 
-👋 Hello, I'm Sofiane ABETIOU.
-
-🌱 I'm a passionate software engineering student from Moroco.
+🌱 I'm a passionate software engineering student from Morocco.
 
 💻 Currently learning and working on exciting software projects.
 
 👯 Looking to collaborate on open-source projects and innovative ideas.
 
-💬 Ask me about Java, Python, web development...
+💬 Ask me about Java, C++ , web development...
 
 📫 How to reach me: sofianeabetiou@gmail.com
 
 Connect with me:
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/sofianeabetiou/))
-- [GitHub]([https://github.com/your-github-profile](https://github.com/AbetiouSN))
+- [LinkedIn](https://www.linkedin.com/in/sofianeabetiou/)
+- [GitHub](https://github.com/AbetiouSN)
 
 Languages and Tools:
 - Java
@@ -23,11 +21,9 @@ Languages and Tools:
 - PHP
 - Laravel
 - Git
-- PL/SQl
+- PL/SQL
 - SQL
 - Oracle
 - PostgreSQL
-  
 
-![AbetiouSN](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
-
+![AbetiouSN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbetiouSN&show_icons=true)
