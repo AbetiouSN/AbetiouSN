@@ -37,10 +37,9 @@ Languages and Tools:
 
 
 
-![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbetiouSN&layout=compact)
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbetiouSN&layout=compact)
 
 ![AbetiouSN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbetiouSN&show_icons=true)
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbetiouSN&show_icons=true)
