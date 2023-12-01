@@ -4,7 +4,7 @@
 
 🌱 I'm a passionate software engineering student from Morocco.
 
-💻 Currently learning and working on exciting software projects.
+💻 Currently learning and working on exciting software projects. 
 
 👯 Looking to collaborate on open-source projects and innovative ideas.
 
