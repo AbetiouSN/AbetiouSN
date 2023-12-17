@@ -19,6 +19,8 @@ Connect with me:
 Languages and Tools:
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -32,7 +34,7 @@ Languages and Tools:
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" width="100">
 <img src="https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white" width="100">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" width="100">
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A700%2F0*R60lnmJl4hanOBaJ.png&tbnid=z4D4FUy_ijvwEM&vet=12ahUKEwiP5uK5yJaDAxWKTaQEHd3jCkgQMygBegQIARB1..i&imgrefurl=https%3A%2F%2Fmedium.com%2F%40tosinfarai%2Fgetting-started-with-spring-boot-ae7a9653a61e&docid=-qGIVJn532w1YM&w=700&h=300&q=spring%20boot&ved=2ahUKEwiP5uK5yJaDAxWKTaQEHd3jCkgQMygBegQIARB1" width="100">
+
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" width="100">
 
