@@ -40,7 +40,7 @@ Languages and Tools:
 
 
 
-![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbetiouSN&layout=compact)
+[![My Most Used Languages](https://img.shields.io/badge/My%20Most%20Used%20Languages-See%20Below-9cf?style=flat)](https://github.com/AbetiouSN?tab=repositories)
 
 ![AbetiouSN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbetiouSN&show_icons=true)
 
