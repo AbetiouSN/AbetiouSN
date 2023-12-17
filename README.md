@@ -23,8 +23,10 @@ Languages and Tools:
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c)
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
@@ -40,8 +42,7 @@ Languages and Tools:
 
 
 
-[![My Most Used Languages](https://img.shields.io/badge/My%20Most%20Used%20Languages-See%20Below-9cf?style=flat)](https://github.com/AbetiouSN?tab=repositories)
-
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbetiouSN&layout=compact)
 ![AbetiouSN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbetiouSN&show_icons=true)
 
 
