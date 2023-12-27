@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World!;I'm+a;Software+engineering+student;Welcome+to+my+GitHub+Profile!&center=true)
 
 🌱 I'm a passionate software engineering student from Morocco.
-
+ 
 💻 Currently learning and working on exciting software projects. 
 
 👯 Looking to collaborate on open-source projects and innovative ideas.
