@@ -6,7 +6,7 @@
  
 💻 Currently learning and working on exciting software projects. 
  
-👯 Looking to collaborate on open-source projects and innovative ideas.
+👯 Looking to collaborate on open-source projects and innovative ideas. 
 
 💬 Ask me about Java, C++ , web development...  
 
