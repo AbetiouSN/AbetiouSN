@@ -8,7 +8,7 @@
 
 👯 Looking to collaborate on open-source projects and innovative ideas.
 
-💬 Ask me about Java, C++ , web development... 
+💬 Ask me about Java, C++ , web development...  
 
 📫 How to reach me: sofianeabetiou@gmail.com
 
