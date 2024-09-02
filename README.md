@@ -1,5 +1,7 @@
 # 💫 About Me:
-Software Engineering Student<br>I am a passionate software engineering student from Morocco.<br>
+I am a passionate software engineering student from Morocco.<be>
+<be>I'm Sofiane Abetiou, a Computer Engineering student passionate about web development and skilled
+in teamwork. I am eager to learn and apply new technologies, bringing enthusiasm and problem-solving abilities to every project<be>
 
 
 ## 🌐 Socials:
