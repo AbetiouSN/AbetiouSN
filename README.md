@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World!;I'm+a;Software+engineering+student;Welcome+to+my+GitHub+Profile!&center=true)
 
-- 💬 Ask me about **Java , C++ ,Spring Boot , Laravel ..**
+- 💬 Ask me about **Java, Spring Framework, SAP Commerce Cloud ..**
 
 - 📫 How to reach me **sofianeabetiou@gmail.com**
 
