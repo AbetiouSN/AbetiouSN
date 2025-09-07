@@ -1,14 +1,14 @@
 # Hi 👋, I'm Sofiane ABETIOU 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World!;I'm+a;Software+engineering+student;Welcome+to+my+GitHub+Profile!&center=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World!;I'm+a;Software+Engineer;SAP+Commerce+Cloud+Developer;Welcome+to+my+GitHub+Profile!&center=true)
 
 - 💬 Ask me about **Java, Spring Framework, SAP Commerce Cloud ..**
 
 - 📫 How to reach me **sofianeabetiou@gmail.com**
 
 # 💫 About Me:
-<h3>I'm a passionate software engineering student from Morocco.</h3>
-<be>I'm Sofiane Abetiou, a Computer Engineering student passionate about web development and skilled
+<h3>I'm a passionate software engineer from Morocco.</h3>
+<be>I'm Sofiane Abetiou, a SAP Commerce Cloud (Hybris) Developer passionate about web development and skilled
 in teamwork. I am eager to learn and apply new technologies, bringing enthusiasm and problem-solving abilities to every project<be>
 
 
