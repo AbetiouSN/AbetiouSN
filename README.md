@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sofiane ABETIOU 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World!;I'm+a;Software+Engineer;SAP+Commerce+Cloud+Developer;Welcome+to+my+GitHub+Profile!&center=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World!;I'm+a;Software+Engineer;&+SAP+Commerce+Cloud+Developer;Welcome+to+my+GitHub+Profile!&center=true)
 
 - 💬 Ask me about **Java, Spring Framework, SAP Commerce Cloud ..**
 
